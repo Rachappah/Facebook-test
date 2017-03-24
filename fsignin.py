@@ -23,7 +23,7 @@ if __name__ == '__main__':
     time.sleep(1)
     element=driver.find_element_by_id("month")
     e2=element.click()
-    element.send_keys("sept")
+    element.send_keys("sep")
     element.click()
     element=driver.find_element_by_id("year")
     e3=element.click()
