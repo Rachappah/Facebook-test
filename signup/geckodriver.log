@@ -1,0 +1,204 @@
+1489904570288	geckodriver	INFO	Listening on 127.0.0.1:57982
+1489904572343	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.tSD1qvXc01cF
+1489904572348	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489904572394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57988
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489904574599	Marionette	INFO	Listening on port 57988
+[Child 5192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489904976945	geckodriver	INFO	Listening on 127.0.0.1:58107
+1489904979007	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.aiijDxpvWSDi
+1489904979012	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489904979160	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58113
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489904981810	Marionette	INFO	Listening on port 58113
+1489905340824	geckodriver	INFO	Listening on 127.0.0.1:58241
+1489905342908	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.qQcOrHXSlAgq
+1489905342916	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489905343070	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58252
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489905345695	Marionette	INFO	Listening on port 58252
+[Child 7672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nette	INFO	Connecting to Marionette on localhost:58334
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489905431997	Marionette	INFO	Listening on port 58334
+[Child 4188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489905585209	geckodriver	INFO	Listening on 127.0.0.1:58410
+1489905587096	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.D3Drh1bvAV1L
+1489905587101	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489905587161	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58416
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489905589825	Marionette	INFO	Listening on port 58416
+[Child 8304] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8304] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nette	INFO	Connecting to Marionette on localhost:58509
+1489905669726	Marionette	INFO	Listening on port 58509
+[Child 5804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489905877042	geckodriver	INFO	Listening on 127.0.0.1:58630
+1489905878934	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.tbzQ1PyfAtbr
+1489905878939	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489905878984	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58636
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489905881630	Marionette	INFO	Listening on port 58636
+1489905985278	geckodriver	INFO	Listening on 127.0.0.1:58714
+1489905987345	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.CKzGu64EDoCk
+1489905987349	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489905987423	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58720
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489905989919	Marionette	INFO	Listening on port 58720
+[Child 10988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+tte	INFO	Connecting to Marionette on localhost:58740
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489906002650	Marionette	INFO	Listening on port 58740
+[Child 10004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489906048108	geckodriver	INFO	Listening on 127.0.0.1:58836
+1489906050176	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.pIIuBu6gJY3C
+1489906050184	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489906050238	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58842
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489906052563	Marionette	INFO	Listening on port 58842
+[Child 4432] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4432] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nette	INFO	Connecting to Marionette on localhost:58934
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489906144058	Marionette	INFO	Listening on port 58934
+1489906296112	geckodriver	INFO	Listening on 127.0.0.1:58999
+1489906298164	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.7yvWRj0MOsHe
+1489906298169	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489906298220	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59005
+1489906299667	Marionette	INFO	Listening on port 59005
+1489906384007	geckodriver	INFO	Listening on 127.0.0.1:59085
+1489906386084	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.bjAfoB53eF3E
+1489906386087	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489906386119	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59091
+1489906387774	Marionette	INFO	Listening on port 59091
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+[Child 8228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489906475085	geckodriver	INFO	Listening on 127.0.0.1:59148
+1489906477148	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.wEPFrRmGftTW
+1489906477152	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489906477197	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59154
+1489906478790	Marionette	INFO	Listening on port 59154
+[Child 812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+file.pjAIccC2FVtV
+1489906601751	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489906601815	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59250
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489906603622	Marionette	INFO	Listening on port 59250
+[Child 4468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489906671074	geckodriver	INFO	Listening on 127.0.0.1:59320
+1489906673142	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.hTD9mKFWvx8v
+1489906673146	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489906673206	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59326
+1489906675003	Marionette	INFO	Listening on port 59326
+[Child 7292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489906792411	geckodriver	INFO	Listening on 127.0.0.1:59394
+1489906794470	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.OuSgizfqadte
+1489906794475	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489906794520	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59400
+1489906796051	Marionette	INFO	Listening on port 59400
+1489907123563	geckodriver	INFO	Listening on 127.0.0.1:59490
+1489907125603	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.SfSRazB2FMGc
+1489907125608	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907125653	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59496
+1489907127436	Marionette	INFO	Listening on port 59496
+[Child 5616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489907328310	geckodriver	INFO	Listening on 127.0.0.1:59558
+1489907330371	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.qFz0R9gOClkh
+1489907330376	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907330412	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59564
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489907331871	Marionette	INFO	Listening on port 59564
+[Child 12172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+tte	INFO	Connecting to Marionette on localhost:59651
+1489907413554	Marionette	INFO	Listening on port 59651
+1489907494284	geckodriver	INFO	Listening on 127.0.0.1:59708
+1489907496337	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.fADxSZcnNRpd
+1489907496341	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907496387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59714
+1489907499089	Marionette	INFO	Listening on port 59714
+[Child 7104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489907592423	geckodriver	INFO	Listening on 127.0.0.1:59778
+1489907594510	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.P2VhYJf2GriU
+1489907594514	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907594551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59784
+1489907596658	Marionette	INFO	Listening on port 59784
+[Child 3312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489907723081	geckodriver	INFO	Listening on 127.0.0.1:59882
+1489907725186	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.av76AKl6f4KM
+1489907725195	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907725277	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59889
+1489907726876	Marionette	INFO	Listening on port 59889
+[Child 9352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489907863310	geckodriver	INFO	Listening on 127.0.0.1:59962
+1489907865380	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.rxj4YgGMohIi
+1489907865384	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907865424	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59968
+1489907867325	Marionette	INFO	Listening on port 59968
+1489907934051	geckodriver	INFO	Listening on 127.0.0.1:60011
+1489907936096	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.CKFlUhQYLvLz
+1489907936101	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907936146	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60017
+1489907937780	Marionette	INFO	Listening on port 60017
+[Child 7816] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7816] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489907969866	geckodriver	INFO	Listening on 127.0.0.1:60050
+1489907971922	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.jLIJMjnUEY2x
+1489907971945	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489907971992	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60056
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1489907973538	Marionette	INFO	Listening on port 60056
+[Child 10192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490001988442	geckodriver	INFO	Listening on 127.0.0.1:50880
+1490001990343	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.Me9lbGE1nQMI
+1490001990391	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490001990579	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50887
+1490001994495	Marionette	INFO	Listening on port 50887
+1490002085577	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ionette	INFO	Connecting to Marionette on localhost:50980
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1490002093493	Marionette	INFO	Listening on port 50980
+[Child 3040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490002182383	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490002182396	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490002182400	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490007670673	geckodriver	INFO	Listening on 127.0.0.1:51991
+1490007672658	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.hHkV47ByjO3O
+1490007672658	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490007672720	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51997
+1490007675461	Marionette	INFO	Listening on port 51997
+1490007769474	geckodriver	INFO	Listening on 127.0.0.1:52032
+1490007771505	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.edckmtWEy78r
+1490007771521	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490007771568	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52038
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1490007773723	Marionette	INFO	Listening on port 52038
+[Child 6188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490257575588	geckodriver	INFO	Listening on 127.0.0.1:62784
+1490257577538	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.w4sDhSlFJrf0
+1490257577538	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490257577600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62790
+1490257580381	Marionette	INFO	Listening on port 62790
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+[Child 6132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490272717359	geckodriver	INFO	Listening on 127.0.0.1:65301
+1490272719326	mozprofile::profile	INFO	Using profile path C:\Users\Rachappa\AppData\Local\Temp\rust_mozprofile.Dfxoj9Z3Py5a
+1490272719330	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490272719521	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65308
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1490272722598	Marionette	INFO	Listening on port 65308
+[Child 7704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
