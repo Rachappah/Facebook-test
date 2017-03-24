@@ -20,6 +20,7 @@ if __name__ == '__main__':
     e1=element.click()
     element.send_keys("6")
     element.click()
+    time.sleep(1)
     element=driver.find_element_by_id("month")
     e2=element.click()
     element.send_keys("Aug")
