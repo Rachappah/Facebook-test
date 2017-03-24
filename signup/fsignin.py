@@ -22,7 +22,7 @@ if __name__ == '__main__':
     element.click()
     element=driver.find_element_by_id("month")
     e2=element.click()
-    element.send_keys("Aug")
+    element.send_keys("sept")
     element.click()
     element=driver.find_element_by_id("year")
     e3=element.click()
